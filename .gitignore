@@ -101,4 +101,6 @@ ENV/
 .mypy_cache/
 
 # added
-records.db  
+records.db
+urls.txt 
+config.py 
